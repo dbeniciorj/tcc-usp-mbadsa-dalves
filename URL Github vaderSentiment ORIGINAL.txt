@@ -1,0 +1,1 @@
+https://github.com/cjhutto/vaderSentiment/tree/0b8040fd23e0ba0a68ebf043697f087cd4c4d6c6/vaderSentiment
